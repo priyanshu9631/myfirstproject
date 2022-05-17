@@ -3,7 +3,7 @@
 
 //For Example :
 //Input Array : [2, 8, 4, 2, 14, 10, 15]
-//Element to search : 4
+//Element to search : 4 
 
 //Output : 
 //Element found at index 2 
